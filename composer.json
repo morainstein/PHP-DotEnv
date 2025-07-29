@@ -1,0 +1,19 @@
+{
+    "name": "morainstein/dotenv",
+    "description": "A simple lib for loading environment variables in PHP",
+    "type": "library",
+    "license": "MIT License",
+    "autoload": {
+        "psr-4": {
+            "Morainstein\\Dotenv\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "morainstein",
+            "email": "nichroberto@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
