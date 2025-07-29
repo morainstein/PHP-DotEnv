@@ -40,4 +40,5 @@ class DotEnv
     {
         return $this->envs[$key] ?? null;
     }
+
 }
